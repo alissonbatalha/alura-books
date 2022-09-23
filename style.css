@@ -63,6 +63,7 @@ body {
 
 .lista-menu__link {
   color: var(--azul-fonte);
+
   text-decoration: none;
   text-transform: uppercase;
 }
@@ -84,7 +85,7 @@ body {
   padding: 0.5em;
 }
 
-@media screen and (min-width: 1024px;) {
+@media screen and (min-width: 1000px;) {
   .container__titulo, 
   .container__titulo--negrito {
     font-family: var(--fonte-secundaria);
